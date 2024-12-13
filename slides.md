@@ -259,13 +259,6 @@ export function createComponentInstanceForVnode(
 
 ---
 
-### 💬
-<br>
-
-<img src="./image-4.png" alt="Vue 父子组件关系" style="width: 60%;border-radius: 1em;border: 1px solid #ddd;">
-
----
-
 ### 类 Vue 的小程序跨端框架
 
 - uniapp
